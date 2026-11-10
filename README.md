@@ -1,7 +1,7 @@
-stem_motor
+stem_machine
 ==================
 
-This crate reserves the name "stem_motor" for the stem project. See the
+This crate reserves the name "stem_machine" for the stem project. See the
 [stem book](https://stefanmathis.github.io/stem_book/) for an
 introduction.
 
